@@ -16,3 +16,5 @@ $ chmod +x /usr/local/bin/awsrc
 ```
 $ awsrc
 ```
+
+![awsrc](awsrc.gif "awsrc")
